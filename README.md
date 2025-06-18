@@ -1,3 +1,19 @@
+# 🤖 Chatbot de Voz y Texto con Python + OpenAI
+
+---
+
+## 📌 Descripción
+
+### 🇪🇸 Español
+Este proyecto es una demo de un chatbot conversacional en español, construido con Python. Permite al usuario interactuar con el asistente mediante entrada de voz (si tiene micrófono) o escribiendo texto. El asistente genera respuestas usando la API de OpenAI (GPT) y las reproduce con síntesis de voz. Es una base ideal para desarrollar asistentes virtuales más avanzados con funcionalidades conversacionales naturales.
+
+### 🇬🇧 English
+This project is a demo of a Spanish-language conversational chatbot built with Python. It allows users to interact with the assistant via voice input (if a microphone is available) or by typing. The assistant uses the OpenAI API (GPT) to generate responses and reads them aloud using speech synthesis. It's a great foundation for developing more advanced virtual assistants with natural conversation capabilities.
+
+### 🇷🇺 Русский
+Этот проект — демонстрация голосового чат-бота на испанском языке, созданного с помощью Python. Пользователь может взаимодействовать с ботом голосом (при наличии микрофона) или через текстовый ввод. Ответы генерируются с помощью API OpenAI (GPT) и озвучиваются с помощью синтеза речи. Отличная основа для разработки более сложных виртуальных помощников с естественным общением.
+
+
 
 ```markdown
 # 🤖 Chatbot de Voz y Texto con Python + OpenAI
